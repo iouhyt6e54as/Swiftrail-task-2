@@ -12,7 +12,7 @@
 ## 🗄️ Database Architecture & ERD
 The system uses a relational database tracking `Roles`, `Employees`, `Customers`, `Warehouses`, `Vehicles`, `Drivers`, `Shipments`, and `Shipment_Status_History`.
 
-![ERD Diagram](DataBase/ERD.jpeg)
+![ERD Diagram](db/ERD.jpeg)
 
 ---
 
